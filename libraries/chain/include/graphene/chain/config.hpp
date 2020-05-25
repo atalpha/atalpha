@@ -170,6 +170,8 @@
 #define GRAPHENE_MINER_PAY_BACK_RATIO						 15
 #define GRAPHENE_GUARD_PAY_RATIO							 75
 #define GRAPHENE_ALL_MINER_PAY_RATIO						 925
+#define GRAPHENE_GUARD_PAY_RATIO_OLD							 30
+#define GRAPHENE_ALL_MINER_PAY_RATIO_OLD						 100
 #define ATA_REFERENDUM_PACKING_PERIOD                         24*3600
 #define ATA_REFERENDUM_VOTING_PERIOD                          7*24*3600
 #define ATA_CHECK_POINT                                       "001b77403468c26f49ebae2febd0dfb6ff0bd2ba"
